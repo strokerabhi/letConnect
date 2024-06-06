@@ -1,5 +1,5 @@
 # letConnect
-
+just use git clone https://github.com/strokerabhi/letConnect.git
 
 i alredy created env in the foldr structure
 Just navigate the folder and use
